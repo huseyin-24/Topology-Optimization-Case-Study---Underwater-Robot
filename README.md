@@ -1,3 +1,5 @@
+Freshman year project. As a member in a student team whose aim is to develop a autonomuos underwater vehicle accomplishing predetermined tasks.
+
 This repo covers a topology optimization case study which is specifically run for a underwater robot. Robot has 6 motors in its periphery according to the mechanical design: 
 - 4 of them are located in corners so that it moves in horizantal plane.
 - 2 of them in sides so that its elevation changes below water surface.
