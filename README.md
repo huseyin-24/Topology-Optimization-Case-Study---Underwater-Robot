@@ -1,4 +1,5 @@
-Freshman year project. As a member in a student team whose aim is to develop a autonomuos underwater vehicle accomplishing predetermined tasks.
+### Freshman year project. 
+As a member in a student team whose aim is to develop a autonomuos underwater vehicle accomplishing predetermined tasks.
 
 This repository documents a topology optimization case study specifically conducted for an underwater robot. The robot features a mechanical design with six strategically positioned motors:
 - Four motors are located at the corners to control submerged elevation.
